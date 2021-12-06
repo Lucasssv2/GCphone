@@ -1,4 +1,4 @@
 # GCphone
-Dette er DevoNetwork telefonen som virker som den skal med mumle (Der skal ikke rodes med det)
+Dette er DevoNetwork telefonen som virker som den skal med mumble (Der skal ikke rodes med det)
 
 Hyg jer
